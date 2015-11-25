@@ -4,7 +4,7 @@ Aria debugging bookmarklet
 Boookmarklet minifier
 ---------------------
 
-http://chriszarate.github.io/bookmarkleter/)
+http://chriszarate.github.io/bookmarkleter/
 
 Bookmarklet
 -----------
